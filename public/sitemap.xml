@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://shaddockwong.github.io/posts/</loc>
     <lastmod>2024-06-27T14:26:21+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/beginning/</loc>
+    <loc>https://shaddockwong.github.io/posts/beginning/</loc>
     <lastmod>2024-06-27T14:26:21+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://shaddockwong.github.io/</loc>
     <lastmod>2024-06-27T14:26:21+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
