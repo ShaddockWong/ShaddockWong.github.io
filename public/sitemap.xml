@@ -4,18 +4,24 @@
 
   <url>
     <loc>https://shaddockwong.github.io/posts/</loc>
-    <lastmod>2024-06-27T14:26:21+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://shaddockwong.github.io/posts/beginning/</loc>
-    <lastmod>2024-06-27T14:26:21+08:00</lastmod>
+    <lastmod>2024-06-28T13:56:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://shaddockwong.github.io/</loc>
+    <lastmod>2024-06-28T13:56:32+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shaddockwong.github.io/posts/build-blog/</loc>
+    <lastmod>2024-06-28T09:58:33+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shaddockwong.github.io/posts/beginning/</loc>
     <lastmod>2024-06-27T14:26:21+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

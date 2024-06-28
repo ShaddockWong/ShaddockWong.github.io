@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的第一个网站</title>
+    <title>一颗柚子</title>
     <link>https://shaddockwong.github.io/</link>
-    <description>Recent content on 我的第一个网站</description>
+    <description>Recent content on 一颗柚子</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 一颗柚子</copyright>
-    <lastBuildDate>Tue, 25 Jun 2024 14:26:21 +0800</lastBuildDate><atom:link href="https://shaddockwong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 13:56:32 +0800</lastBuildDate><atom:link href="https://shaddockwong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>利用 GitHub Pages &#43; Hugo 搭建个人博客</title>
+      <link>https://shaddockwong.github.io/posts/build-blog/</link>
+      <pubDate>Fri, 28 Jun 2024 09:58:33 +0800</pubDate>
+      
+      <guid>https://shaddockwong.github.io/posts/build-blog/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/build-blog/featured.svg" />
+    </item>
+    
     <item>
       <title>开篇</title>
       <link>https://shaddockwong.github.io/posts/beginning/</link>
       <pubDate>Tue, 25 Jun 2024 14:26:21 +0800</pubDate>
       
       <guid>https://shaddockwong.github.io/posts/beginning/</guid>
-      <description>一直在想，是不是做一个博客比较好，抽点时间，记录些东西也挺好。</description>
-      
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/beginning/featured.jpg" />
     </item>
     
   </channel>
