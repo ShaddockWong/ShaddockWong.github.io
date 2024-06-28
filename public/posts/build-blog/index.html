@@ -102,7 +102,7 @@
     "keywords": ["blog","网站"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "1360"
+    "wordCount": "1378"
   }]
   </script>
 
@@ -537,7 +537,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-06-28 09:58:33 &#43;0800 CST">2024-6-28</time><span class="px-2 text-primary-500">&middot;</span><span>1360 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">3 分钟</span><span class="px-2 text-primary-500">&middot;</span><span>
+  <time datetime="2024-06-28 09:58:33 &#43;0800 CST">2024-6-28</time><span class="px-2 text-primary-500">&middot;</span><span>1378 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">3 分钟</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
     
@@ -1016,11 +1016,23 @@
 </h2>
 <p>Hugo 提供非常详尽的 <a href="https://hugo.opendocs.io/hosting-and-deployment/hosting-on-github/" target="_blank">GitHub Pages 部署指引</a>。这里对部署过程做简单梳理：</p>
 <ol>
-<li>在 <code>./.github/workflows/</code> 中放入 <code>gh-pages.yml</code>；</li>
-<li>将本地网站同步到 GitHub 同名仓库；</li>
-<li>在仓库设置 <code>Settings -&gt; Pages</code> 中选择 <code>gh-pages</code> 作为网站资源分支。</li>
+<li>
+<p>在 <code>./.github/workflows/</code> 中放入 <code>hugo.yml</code>；</p>
+</li>
+<li>
+<p>将本地网站同步到 GitHub 同名仓库；</p>
+</li>
+<li>
+<p>在仓库设置 <code>Settings -&gt; Pages</code> 中选择 <code>Build and deployment</code> 选择 <code>GitHub Actions</code>,将 Hugo 推送到 GitHub 上时,便会自动构建网页。</p>
+<p>
+    <figure>
+      <img class="my-0 rounded-md" loading="lazy" src="./image/image-20240628153106038.png" alt="image-20240628153106038" />
+      
+    </figure>
+</p>
+</li>
 </ol>
-<p>完成以上步骤，你便可以通过 <em>https://<your-github-id>.github.io</em> 访问自己的个人博客。</p>
+<p>完成以上步骤，你便可以通过 <code>https://&lt;your-github-id&gt;.github.io</code> 访问自己的个人博客。</p>
 
         </div>
         

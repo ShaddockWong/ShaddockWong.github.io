@@ -136,8 +136,12 @@ hugo server -D
 
 Hugo 提供非常详尽的 [GitHub Pages 部署指引](https://hugo.opendocs.io/hosting-and-deployment/hosting-on-github/)。这里对部署过程做简单梳理：
 
-1. 在 `./.github/workflows/` 中放入 `gh-pages.yml`；
-2. 将本地网站同步到 GitHub 同名仓库；
-3. 在仓库设置 `Settings -> Pages` 中选择 `gh-pages` 作为网站资源分支。
+1. 在 `./.github/workflows/` 中放入 `hugo.yml`；
 
-完成以上步骤，你便可以通过 *https://<your-github-id>.github.io* 访问自己的个人博客。
+2. 将本地网站同步到 GitHub 同名仓库；
+
+3. 在仓库设置 `Settings -> Pages` 中选择 `Build and deployment` 选择 `GitHub Actions`,将 Hugo 推送到 GitHub 上时,便会自动构建网页。
+
+   ![image-20240628153106038](./image/image-20240628153106038.png)
+
+完成以上步骤，你便可以通过 `https://<your-github-id>.github.io` 访问自己的个人博客。
