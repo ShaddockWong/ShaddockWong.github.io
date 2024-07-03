@@ -3,14 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://shaddockwong.github.io/posts/mr-image/</loc>
+    <lastmod>2024-07-03T10:31:20+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://shaddockwong.github.io/posts/</loc>
-    <lastmod>2024-06-28T13:56:32+08:00</lastmod>
+    <lastmod>2024-07-03T10:31:20+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://shaddockwong.github.io/</loc>
-    <lastmod>2024-06-28T13:56:32+08:00</lastmod>
+    <lastmod>2024-07-03T10:31:20+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

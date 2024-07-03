@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 一颗柚子</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 13:56:32 +0800</lastBuildDate><atom:link href="https://shaddockwong.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jul 2024 10:31:20 +0800</lastBuildDate><atom:link href="https://shaddockwong.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MapReduce流程图（重制版）</title>
+      <link>https://shaddockwong.github.io/posts/mr-image/</link>
+      <pubDate>Wed, 03 Jul 2024 10:31:20 +0800</pubDate>
+      
+      <guid>https://shaddockwong.github.io/posts/mr-image/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>利用 GitHub Pages &#43; Hugo 搭建个人博客</title>
       <link>https://shaddockwong.github.io/posts/build-blog/</link>
