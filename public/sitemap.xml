@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chapterone/</loc>
-    <lastmod>2024-07-04T11:38:10+08:00</lastmod>
+    <loc>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater02/</loc>
+    <lastmod>2024-07-04T10:38:10+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -16,6 +16,12 @@
   </url>
   <url>
     <loc>https://shaddockwong.github.io/</loc>
+    <lastmod>2024-07-04T11:38:10+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chapter01/</loc>
     <lastmod>2024-07-04T11:38:10+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
