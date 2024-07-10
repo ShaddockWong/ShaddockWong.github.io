@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 一颗柚子</copyright>
-    <lastBuildDate>Fri, 05 Jul 2024 11:36:38 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jul 2024 08:14:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>04-工厂方法模式</title>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater04/</link>
+      <pubDate>Mon, 08 Jul 2024 08:14:29 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater04/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater04/featured.jpg" />
+    </item>
+    
     <item>
       <title>03-简单工厂模式</title>
       <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater03/</link>
