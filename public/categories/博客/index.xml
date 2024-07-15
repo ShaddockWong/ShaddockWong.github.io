@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on 一颗柚子</title>
-    <link>http://localhost:1313/categories/%E5%8D%9A%E5%AE%A2/</link>
+    <link>https://shaddockwong.github.io/categories/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on 一颗柚子</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 一颗柚子</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 09:58:33 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 09:58:33 +0800</lastBuildDate><atom:link href="https://shaddockwong.github.io/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>利用 GitHub Pages &#43; Hugo 搭建个人博客</title>
-      <link>http://localhost:1313/posts/build-blog/</link>
+      <link>https://shaddockwong.github.io/posts/build-blog/</link>
       <pubDate>Fri, 28 Jun 2024 09:58:33 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/build-blog/</guid>
+      <guid>https://shaddockwong.github.io/posts/build-blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/build-blog/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/build-blog/featured.svg" />
     </item>
     
   </channel>

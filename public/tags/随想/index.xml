@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>随想 on 一颗柚子</title>
-    <link>http://localhost:1313/tags/%E9%9A%8F%E6%83%B3/</link>
+    <link>https://shaddockwong.github.io/tags/%E9%9A%8F%E6%83%B3/</link>
     <description>Recent content in 随想 on 一颗柚子</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 一颗柚子</copyright>
-    <lastBuildDate>Tue, 25 Jun 2024 14:26:21 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E9%9A%8F%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jun 2024 14:26:21 +0800</lastBuildDate><atom:link href="https://shaddockwong.github.io/tags/%E9%9A%8F%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>开篇</title>
-      <link>http://localhost:1313/posts/beginning/</link>
+      <link>https://shaddockwong.github.io/posts/beginning/</link>
       <pubDate>Tue, 25 Jun 2024 14:26:21 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/beginning/</guid>
+      <guid>https://shaddockwong.github.io/posts/beginning/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/beginning/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/beginning/featured.jpg" />
     </item>
     
   </channel>
