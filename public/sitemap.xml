@@ -3,67 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater06/</loc>
-    <lastmod>2024-07-12T09:03:18+08:00</lastmod>
+    <loc>http://localhost:1313/posts/restudyjavadesignpattern/chpater07/</loc>
+    <lastmod>2024-07-15T16:35:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shaddockwong.github.io/posts/</loc>
-    <lastmod>2024-07-12T09:03:18+08:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-07-15T16:35:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shaddockwong.github.io/</loc>
-    <lastmod>2024-07-12T09:03:18+08:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-15T16:35:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater05/</loc>
+    <loc>http://localhost:1313/posts/restudyjavadesignpattern/chpater06/</loc>
+    <lastmod>2024-07-15T09:03:18+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/restudyjavadesignpattern/chpater05/</loc>
     <lastmod>2024-07-11T15:06:49+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater04/</loc>
+    <loc>http://localhost:1313/posts/restudyjavadesignpattern/chpater04/</loc>
     <lastmod>2024-07-09T08:14:29+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater03/</loc>
+    <loc>http://localhost:1313/posts/restudyjavadesignpattern/chpater03/</loc>
     <lastmod>2024-07-05T11:36:38+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater02/</loc>
+    <loc>http://localhost:1313/posts/restudyjavadesignpattern/chpater02/</loc>
     <lastmod>2024-07-04T10:38:10+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chapter01/</loc>
+    <loc>http://localhost:1313/posts/restudyjavadesignpattern/chapter01/</loc>
     <lastmod>2024-07-04T11:38:10+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shaddockwong.github.io/posts/mr-image/</loc>
+    <loc>http://localhost:1313/posts/mr-image/</loc>
     <lastmod>2024-07-03T10:31:20+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shaddockwong.github.io/posts/build-blog/</loc>
+    <loc>http://localhost:1313/posts/build-blog/</loc>
     <lastmod>2024-06-28T09:58:33+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://shaddockwong.github.io/posts/beginning/</loc>
+    <loc>http://localhost:1313/posts/beginning/</loc>
     <lastmod>2024-06-27T14:26:21+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
