@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 一颗柚子</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 16:35:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jul 2024 09:47:43 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>08-单例模式</title>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater08/</link>
+      <pubDate>Wed, 17 Jul 2024 09:47:43 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater08/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater08/featured.jpg" />
+    </item>
+    
     <item>
       <title>07-原型模式</title>
       <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater07/</link>
