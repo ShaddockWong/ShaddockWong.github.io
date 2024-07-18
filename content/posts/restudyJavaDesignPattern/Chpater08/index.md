@@ -12,7 +12,7 @@ draft = false
 
 对于一个软件系统中的某些类而言，只有一个实例很重要，例如一个系统只能有一个窗口管理器或文件系统，一个系统只能有一个计时工具或 ID（序号）生成器。
 
-> **单例模式：**确保一个类只有一个实例，并提供一个全局访问点来访问这个唯一实例。
+> **单例模式**：确保一个类只有一个实例，并提供一个全局访问点来访问这个唯一实例。
 >
 > **Singleton Pattern**: Ensure a class has only one instance, and provide a global point of access to it.
 
