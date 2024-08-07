@@ -2,150 +2,160 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>设计模式 on 一颗柚子</title>
-    <link>https://shaddockwong.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</link>
+    <link>http://localhost:1313/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</link>
     <description>Recent content in 设计模式 on 一颗柚子</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 一颗柚子</copyright>
-    <lastBuildDate>Wed, 31 Jul 2024 11:32:20 +0800</lastBuildDate><atom:link href="https://shaddockwong.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Aug 2024 11:03:24 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15-代理模式</title>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater15/</link>
+      <pubDate>Tue, 06 Aug 2024 11:03:24 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater15/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>14-享元模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater14/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater14/</link>
       <pubDate>Wed, 31 Jul 2024 11:32:20 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater14/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater14/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater14/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater14/featured.jpg" />
     </item>
     
     <item>
       <title>13-外观模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater13/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater13/</link>
       <pubDate>Mon, 29 Jul 2024 14:22:24 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater13/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater13/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater13/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater13/featured.jpg" />
     </item>
     
     <item>
       <title>12-装饰模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater12/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater12/</link>
       <pubDate>Thu, 25 Jul 2024 08:22:24 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater12/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater12/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater12/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater12/featured.jpg" />
     </item>
     
     <item>
       <title>11-组合模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater11/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater11/</link>
       <pubDate>Mon, 22 Jul 2024 11:09:59 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater11/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater11/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater11/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater11/featured.jpg" />
     </item>
     
     <item>
       <title>10-桥接模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater10/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater10/</link>
       <pubDate>Fri, 19 Jul 2024 09:01:34 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater10/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater10/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater10/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater10/featured.jpg" />
     </item>
     
     <item>
       <title>09-适配器模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater09/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater09/</link>
       <pubDate>Thu, 18 Jul 2024 13:38:49 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater09/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater09/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater09/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater09/featured.jpg" />
     </item>
     
     <item>
       <title>08-单例模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater08/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater08/</link>
       <pubDate>Wed, 17 Jul 2024 09:47:43 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater08/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater08/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater08/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater08/featured.jpg" />
     </item>
     
     <item>
       <title>07-原型模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater07/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater07/</link>
       <pubDate>Mon, 15 Jul 2024 16:35:00 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater07/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater07/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater07/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater07/featured.jpg" />
     </item>
     
     <item>
       <title>06-建造者模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater06/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater06/</link>
       <pubDate>Fri, 12 Jul 2024 09:03:18 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater06/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater06/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater06/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater06/featured.jpg" />
     </item>
     
     <item>
       <title>05-抽象工厂模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater05/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater05/</link>
       <pubDate>Wed, 10 Jul 2024 15:06:49 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater05/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater05/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater05/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater05/featured.jpg" />
     </item>
     
     <item>
       <title>04-工厂方法模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater04/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater04/</link>
       <pubDate>Mon, 08 Jul 2024 08:14:29 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater04/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater04/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater04/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater04/featured.jpg" />
     </item>
     
     <item>
       <title>03-简单工厂模式</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater03/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater03/</link>
       <pubDate>Fri, 05 Jul 2024 11:36:38 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater03/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater03/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater03/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater03/featured.jpg" />
     </item>
     
     <item>
       <title>02-面向对象设计原则</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater02/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater02/</link>
       <pubDate>Thu, 04 Jul 2024 10:38:10 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater02/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater02/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chpater02/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater02/featured.jpg" />
     </item>
     
     <item>
       <title>01-设计模式概述</title>
-      <link>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chapter01/</link>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chapter01/</link>
       <pubDate>Wed, 03 Jul 2024 11:38:10 +0800</pubDate>
       
-      <guid>https://shaddockwong.github.io/posts/restudyjavadesignpattern/chapter01/</guid>
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chapter01/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shaddockwong.github.io/posts/restudyjavadesignpattern/chapter01/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chapter01/featured.jpg" />
     </item>
     
   </channel>
