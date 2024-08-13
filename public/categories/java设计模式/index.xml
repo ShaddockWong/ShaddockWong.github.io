@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 一颗柚子</copyright>
-    <lastBuildDate>Fri, 09 Aug 2024 10:59:19 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Aug 2024 11:46:14 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>17-命令模式</title>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater17/</link>
+      <pubDate>Mon, 12 Aug 2024 11:46:14 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater17/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>16-职责链模式</title>
       <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater16/</link>
@@ -15,7 +25,7 @@
       
       <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater16/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater16/featured.jpg" />
     </item>
     
     <item>
