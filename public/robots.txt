@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shaddockwong.github.io/sitemap.xml
