@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2024 一颗柚子</copyright>
-    <lastBuildDate>Thu, 22 Aug 2024 16:14:46 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Aug 2024 14:04:56 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>21-备忘录模式</title>
+      <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater21/</link>
+      <pubDate>Mon, 26 Aug 2024 14:04:56 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater21/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>20-中介者模式</title>
       <link>http://localhost:1313/posts/restudyjavadesignpattern/chpater20/</link>
@@ -15,7 +25,7 @@
       
       <guid>http://localhost:1313/posts/restudyjavadesignpattern/chpater20/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restudyjavadesignpattern/chpater20/featured.jpg" />
     </item>
     
     <item>
