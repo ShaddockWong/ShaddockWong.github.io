@@ -3,14 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/posts/restudyjavadesignpattern/chpater24/</loc>
+    <lastmod>2024-09-09T15:49:08+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-06T14:00:04+08:00</lastmod>
+    <lastmod>2024-09-09T15:49:08+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-06T14:00:04+08:00</lastmod>
+    <lastmod>2024-09-09T15:49:08+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/restudyjavadesignpattern/chpater23/</loc>
+    <lastmod>2024-09-09T14:00:04+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
